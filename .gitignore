@@ -1,3 +1,6 @@
+# ENV
+env/
+
 # Python cache and environments
 __pycache__/
 *.pyc
@@ -12,6 +15,7 @@ env/
 # System files
 .DS_Store
 Thumbs.db
+data/.DS_Store
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -30,10 +34,6 @@ wandb/
 .idea/
 *.sublime-project
 *.sublime-workspace
-
-
-
-data/.DS_Store
 
 # Ignore the jigsaw dataset kaggle folder
 /data/jigsaw dataset kaggle
