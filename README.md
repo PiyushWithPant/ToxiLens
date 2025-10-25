@@ -14,4 +14,16 @@ You can access the dataset [here](https://www.kaggle.com/c/jigsaw-toxic-comment-
 - **Labels**: Toxic, Severe Toxic, Obscene, Threat, Insult, Identity Hate
 - **Usage**: Ideal for training machine learning models for natural language processing tasks related to comment moderation and toxicity detection.
 
+### Structure
+
+1. `/data`
+
+- `/data/preprocessed data`: contains processed features derived from the Jigsaw Toxic Comment dataset (Kaggle, CC BY 4.0).
+
+2. `src`
+
+- `data.ipynb`: Data Preprocessing & TF-IDF Vectorization, saves the data
+
+- `model.py`: Contains the main model
+
 > By Piyush Pant
