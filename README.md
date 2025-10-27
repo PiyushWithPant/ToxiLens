@@ -1,6 +1,8 @@
 # ToxiLens 🔎: AI-powered Toxicity Detector and Categorizer
 
-A dual-head neural network that detects whether a comment is toxic and identifies the specific toxic categories.
+A dual-head neural network that detects whether a comment is toxic and identifies the specific toxic categories. Model available at: [ToxiLens 🔎](https://toxilens.streamlit.app/)
+
+<img alt="Model not optimized" src="https://img.shields.io/badge/Model Status-Not Optimized-red">
 
 ---
 
